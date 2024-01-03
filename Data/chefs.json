@@ -1,0 +1,123 @@
+ [
+      {
+        "_id": 1,
+        "chef_picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHx8MA%3D%3D",
+        "chef_name": "Alice Johnson",
+        "years_of_experience": 15,
+        "number_of_recipes": 75,
+        "likes": 12000,
+        "bio": "Alice Johnson is a passionate chef known for her innovative approach to traditional cuisines. With 15 years of experience, she has delighted food enthusiasts with a variety of dishes.",
+        "favorite_recipe": "Grilled Salmon with Lemon and Dill",
+        "recipes": 
+          {
+            "recipe_name": "Grilled Salmon with Lemon and Dill",
+            "ingredients": ["Salmon fillets, Lemon, Fresh dill, Olive oil, Salt, Pepper"],
+            "cooking_method": "1. Marinate salmon in olive oil, lemon juice, and chopped dill. \n2. Grill until salmon is cooked through. \n3. Season with salt and pepper to taste.",
+            "rating": 4.8,
+            "food_image":"https://media.istockphoto.com/id/1317140116/photo/baked-salmon-with-aromatic-herbs-and-lemon-fruit-on-baking-paper.jpg?s=612x612&w=0&k=20&c=gLjwMIIIRyolpOwhXrnmE9P49KkiN8-vAgeEyBF35Fk="
+          }
+          
+        
+      },
+      {
+        "_id": 2,
+        "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHx8MA%3D%3D",
+        "chef_name": "Michael Smith",
+        "years_of_experience": 20,
+        "number_of_recipes": 100,
+        "likes": 18000,
+        "bio": "Michael Smith, a culinary maestro, has dedicated two decades to the art of cooking. His culinary creations reflect a perfect blend of flavors, earning him accolades and a loyal fan base.",
+        "favorite_recipe": "Filet Mignon with Red Wine Reduction",
+        "recipes": 
+          
+          {
+            "recipe_name": "Classic Tiramisu",
+            "ingredients": ["Ladyfinger, Espresso, Mascarpone cheese, Egg yolks, Sugar, Cocoa powder"],
+            "cooking_method": "1. Dip ladyfingers in espresso. \n2. Layer with a mixture of mascarpone, egg yolks, and sugar. \n3. Repeat layers. \n4. Chill and dust with cocoa powder before serving.",
+            "rating": 4.8,
+            "food_image":"https://media.istockphoto.com/id/1065482246/photo/homemade-tiramisu-cake.jpg?s=612x612&w=0&k=20&c=a0akqE9yE3U09YEfPR_01KAE4kDnxtWj66LoCj3Tdo8="
+          }
+        
+      },
+      {
+        "_id": 3,
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1661349726691-d5efab008d77?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHx8MA%3D%3D",
+        "chef_name": "Sara Williams",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "likes": 9000,
+        "bio": "Sara Williams, a rising star in the culinary world, brings a fresh perspective to the table. With a decade of experience, she continues to surprise and delight with her culinary expertise.",
+        "favorite_recipe": "Homemade Pasta with Tomato Basil Sauce",
+        "recipes": 
+          
+          {
+            "recipe_name": "Blueberry Lemon Pancakes",
+            "ingredients": ["Pancake mix, Blueberries, Lemon zest, Milk, Eggs, Maple syrup"],
+            "cooking_method": "1. Mix pancake batter with blueberries and lemon zest. \n2. Cook pancakes on a griddle. \n3. Serve with maple syrup.",
+            "rating": 4.6,
+            "food_image":"https://media.gettyimages.com/id/113105936/photo/krt-food-story-slugged-recipedoctor-krt-photograph-by-s-t-pickton-krt-lemon-blueberry-pancakes.jpg?s=612x612&w=0&k=20&c=wdkOg7lTNE12IznXwvBVmDwEq06LtOJXotAy2J8-n1o="
+          }
+        
+    },
+    {
+        "_id": 4,
+        "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHx8MHx8fDA%3D",
+        "chef_name": "Emily Davis",
+        "years_of_experience": 18,
+        "number_of_recipes": 90,
+        "likes": 15000,
+        "bio": "Emily Davis, an expert in creating memorable dining experiences, has enchanted taste buds for nearly two decades. Her culinary creations showcase a perfect balance of creativity and tradition.",
+        "favorite_recipe": "Lemon Ricotta Pancakes with Blueberry Compote",
+        "recipes": 
+        
+          {
+            "recipe_name": "Mango Coconut Rice Pudding",
+            "ingredients": ["Rice, Coconut milk, Mango, Sugar, Vanilla extract"],
+            "cooking_method": "1. Cook rice in coconut milk with sugar and vanilla extract. \n2. Fold in diced mango. \n3. Chill before serving.",
+            "rating": 4.8,
+            "food_image":"https://www.seriouseats.com/thmb/zAKoiU4mF2lL9f1HfbqNknt3mrk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__03__20160323-mango-sticky-rice-vicky-wasik-5-5ec805a5a1bd4403a0d72347ec35f693.jpg"
+          }
+        
+      },
+      {
+        "_id": 5,
+        "chef_picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGNoZWZ8ZW58MHx8MHx8fDA%3D",
+        "chef_name": "Robert Johnson",
+        "years_of_experience": 22,
+        "number_of_recipes": 120,
+        "likes": 20000,
+        "bio": "Robert Johnson, a culinary virtuoso with over two decades of experience, continues to push the boundaries of gastronomy. His innovative dishes have made him a trailblazer in the culinary world.",
+        "favorite_recipe": "Seared Scallops with Garlic Butter Sauce",
+        "recipes": 
+        
+          {
+            "recipe_name": "Chocolate Mousse with Raspberry Coulis",
+            "ingredients": ["Heavy cream, Chocolate, Sugar, Egg yolks, Raspberries, Lemon juice"],
+            "cooking_method": "1. Melt chocolate and mix with egg yolks and sugar. \n2. Whip heavy cream and fold into the chocolate mixture. \n3. Chill the mousse. \n4. Prepare a raspberry coulis with mashed raspberries and lemon juice.",
+            "rating": 4.8,
+            "food_image":"https://www.coles.com.au/content/dam/coles/inspire-create/april22-images/May22-Brent-Drapers-Easter-egg-chocolate-mousse-976x549.jpg"
+          }
+        
+      },
+      {
+        "_id": 6,
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1661768047505-3b706f06de60?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2hlZiUyMGZlbWFsZXxlbnwwfHwwfHx8MA%3D%3D",
+        "chef_name": "Alice Waters",
+        "years_of_experience": 14,
+        "number_of_recipes": 80,
+        "likes": 16000,
+        "bio": "Christopher Baker, a culinary enthusiast, has spent 14 years mastering the art of cooking. His culinary journey is marked by a commitment to excellence and a passion for creating delightful dishes.",
+        "favorite_recipe": "Pesto Pasta with Cherry Tomatoes",
+        "recipes":
+          
+          {
+            "recipe_name": "Lemon Blueberry Cheesecake",
+            "ingredients": ["Graham cracker crust, Cream cheese, Sugar, Eggs, Lemon zest, Blueberries, Whipped cream"],
+            "cooking_method": "1. Prepare a graham cracker crust. \n2. Beat cream cheese, sugar, and eggs. \n3. Add lemon zest and fold in blueberries. \n4. Pour into the crust and bake until set. \n5. Chill and top with whipped cream.",
+            "rating": 4.9,
+            "food_image":"https://hips.hearstapps.com/hmg-prod/images/lemon-blueberry-cheesecake-index-644fdd233ba7f.jpg?crop=0.502xw:1.00xh;0.0717xw,0&resize=1200:*"
+          }
+        
+      }
+]   
+      
